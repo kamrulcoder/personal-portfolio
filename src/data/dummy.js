@@ -140,10 +140,10 @@ export const projectsData = {
         {
             id: 2,
             projectName: 'React Personal Website  ',
-            tags: ["Tailwind Css", "React Js", "Context Api", "React router dom ", "framer motion "],
-            code: 'https://github.com/kamrulcoder/dashboard',
-            demo: 'https://dashboard-shoppy.netlify.app/',
-            image: "https://i.ibb.co/W6g39w3/image.png"
+            tags: [ "Context Api", "React router dom ", "framer motion ", "Tailwind Css", "React Js"],
+            code: 'https://github.com/kamrulcoder/personal-portfolio',
+            demo: 'https://kamrul-portfolio.netlify.app/',
+            image: "https://res.cloudinary.com/dnr14t7ka/image/upload/v1676108691/portfolio_jfxxpx.png"
         }
     ]
 }
