@@ -1,9 +1,8 @@
 
-![inventory](https://res.cloudinary.com/dnr14t7ka/image/upload/v1676099361/all-devices-black_wvbz6r.png)
+![inventory](https://res.cloudinary.com/dnr14t7ka/image/upload/v1676108691/portfolio_jfxxpx.png)
 
 #  Personal Portfolio  
 ## [Demo Live  🎯](https://kamrul-portfolio.netlify.app/)
-##  [Backend Loink   🎯](https://github.com/kamrulcoder/inventory-backend)
 
 ## Features
 
