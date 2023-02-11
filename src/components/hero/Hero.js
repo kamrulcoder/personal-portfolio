@@ -27,15 +27,8 @@ function Hero() {
   }
 
   return (
-    <motion.div
-      initial={{ y: -15, opacity: 0 }}
-      whileInView={{ y: 0, opacity: 1 }}
-      transition={
-        {
-          duration: 2,
-          delay: 0.5
-        }
-      }
+    <div
+      
 
       className='py-10 dark:bg-dark-bg-color' id="home">
       <div className="container mx-auto">
@@ -75,7 +68,7 @@ function Hero() {
           </div>
         </div>
       </div>
-    </motion.div>
+    </div>
   )
 }
 
