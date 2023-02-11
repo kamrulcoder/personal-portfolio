@@ -58,7 +58,7 @@ export const aboutData = {
     leftTitle: "About",
     rightTitlte: "My Skills",
     description: "My name is Kamrul Hasan , I am web developer from Dhaka, Bangladesh. I have rich experience in web site design and building and customization, also I am good at Mern Stack .",
-    cvLink: "https://drive.google.com/file/d/1qanuJXG1yWlgh3RHEFp_erpKSlPnas_U/view",
+    cvLink: "https://drive.google.com/file/d/15G7CrUyBJDSLMbv6wBe88mbKUPGRTyG4/view",
     skills: [
         {
             catagory: "Programming  Language",
